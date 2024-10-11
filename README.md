@@ -24,7 +24,6 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedora full stack com experiênci
 
 ## 📫 Vamos nos Conectar!
 
-- Email: [thainara.email@example.com](mailto:thainara.email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 
 ✨ Agradeço pela visita ao meu perfil! Vamos construir algo incrível juntos! 🚀
